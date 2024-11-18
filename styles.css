@@ -92,7 +92,8 @@ iframe {
     flex-direction:column;
     font-size:20px;
     text-align:center;
-    text-decoration-color: aliceblue;
+    color:aliceblue;
+    
     
 }
 
