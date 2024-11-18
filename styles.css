@@ -133,3 +133,18 @@ li{
     background-color: aliceblue;
 
 }
+.audio-title{
+   color: aliceblue; 
+}
+
+.media-container {
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    padding: 15px 25px 15px 15px;
+}
+.mediacontent {
+    font-family: verdana, Geneva, Tahoma, sans-serif;
+    color: navy;
+    font-size: 20px;
+}
