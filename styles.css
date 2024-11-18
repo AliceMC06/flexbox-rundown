@@ -102,13 +102,13 @@ iframe {
 
 .section-five {
     background-color: goldenrod;
-    height: 1500px;
+    height: 1400px;
 
 }
 h1 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size:60px;
-    text-align:right;
+    text-align:center;
 }
 ul {
     list-style-type: none;
