@@ -141,7 +141,7 @@ li{
     display: flex;
     justify-content: flex-start;
     flex-wrap: wrap;
-    padding: 15px 25px 15px 15px;
+    padding: 5px 5px 5px 5px;
 }
 .mediacontent {
     font-family: verdana, Geneva, Tahoma, sans-serif;
