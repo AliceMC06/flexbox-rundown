@@ -2,13 +2,13 @@
 
 
 body{
-    background-color: limegreen;
+    background-color: #F2F2F2;
 }
 
 /* header sytles */
 
 header {
-    background-color: hotpink;
+    background-color: rgb(137, 116, 198);
     padding: 10px 0px 10px 0px;
     
     
