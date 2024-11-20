@@ -205,3 +205,8 @@ footer {
     box-shadow: 10px 10px 20px black;
     width: 70%;
 }
+
+h1 {
+    font-family: "narkiss-yair-variable", sans-serif;
+    font-variation-settings: "MONO" 0, "wght" 400;
+}
